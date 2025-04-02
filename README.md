@@ -5,7 +5,7 @@
 
 ## 1. Executive Summary
 
-TuneIT is an open-source, cross-platform desktop application for fine-tuning machine learning models without requiring user accounts or subscriptions. The platform allows users to leverage their existing cloud provider accounts for GPU resources while maintaining complete control over their data and models. With an intuitive interface designed for both novices and experts, TuneIT bridges the gap between powerful machine learning capabilities and user-friendly software.
+TuneIT is an open-source, cross-platform desktop application for fine-tuning machine learning models without code. The platform allows users to leverage their existing cloud provider accounts for GPU resources while maintaining complete control over their data and models. With an intuitive interface designed for both novices and experts, TuneIT bridges the gap between powerful machine learning capabilities and user-friendly software.
 
 ---
 
