@@ -1,0 +1,22 @@
+# Core ML/NLP
+transformers   # Use a recent version
+datasets
+torch          # Or match your system's CUDA version if using GPU
+pandas
+numpy
+scikit-learn
+huggingface_hub
+
+# Desktop UI
+PySide6
+
+# Plotting
+matplotlib
+
+# Optional for GGUF export (Install manually if needed - can be complex)
+# auto-gptq>=0.4.2 # Check compatibility with your transformers/torch version
+
+# Zipfile handling (built-in)
+# Logging (built-in)
+# Tempfile (built-in)
+# OS, Pathlib, JSON (built-in)
